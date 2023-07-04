@@ -3,7 +3,7 @@ Convert DICOM to jpg
 
 **What to install
 
-run `apt-get install dcmj2pnm`
+run `apt-get install dcmtk`
 
 **How to use
 
